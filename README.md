@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+As a part of Microsoft WIT IDC Hackathon I have created a Job Search app for blue-collar workers. It helps them to find jobs in difficult times of COVID.
+[Demo Video Link](https://youtu.be/oBp-ZCRlqds)
 
 ## Available Scripts
 
